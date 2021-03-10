@@ -8,4 +8,5 @@ func main() {
 	fmt.Println("hehe haasdele")
 	fmt.Println("What are you doing here?")
 	fmt.Println("Status check")
+	fmt.Println("Status check offline")
 }
